@@ -1,0 +1,10 @@
+{
+  "db": {
+    "host": "localhost",
+    "port": 27020,
+    "user": "root",
+    "pass": "example",
+    "collection": "app"
+  },
+  "port": 3000
+}
